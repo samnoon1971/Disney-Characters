@@ -2,6 +2,10 @@
   "name": "Disney-Characters",
   "version": "1.0.0",
   "dependencies": {
+    "body-parser": "^1.20.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
     "node-fetch": "^2.6.1"
   }
 }
